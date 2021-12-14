@@ -1,6 +1,6 @@
 {
   "name": "class-components",
-  "homepage": "https://juniorjesus.github.io/BlockMaster/",
+  "homepage": "https://juniorjesus.github.io/navbar/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -14,6 +14,7 @@
     "axios": "^0.21.4",
     "bootstrap": "^5.1.0",
     "bootswatch": "^5.1.1",
+    "dom": "^0.0.3",
     "material": "^0.4.3",
     "md5": "^2.3.0",
     "react": "^17.0.2",
@@ -29,12 +30,13 @@
     "react-scroll": "^1.8.4",
     "react-uuid": "^1.0.2",
     "reactstrap": "^8.10.0",
+    "router": "^1.3.6",
     "sweetalert": "^2.1.2",
     "ui": "^0.2.4",
     "web-vitals": "^1.0.1"
   },
   "scripts": {
-    "start": " PUBLIC_URL=http://localhost:3000/ react-scripts start",
+    "start": " react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
