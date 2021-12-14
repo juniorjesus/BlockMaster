@@ -68,7 +68,7 @@ export default class Login extends Component {
             <form className="form-signin" onSubmit={this.handleSubmit}>
             <img 
                     className="fadeimg "
-                    src="https://res.cloudinary.com/dky22nhv5/image/upload/v1631157616/logo_jqmfzn.png" 
+                    src="https://res.cloudinary.com/djbaqvlnn/image/upload/v1639338870/block-master/block_master_iy5cqs.png" 
                     id="icon" 
                     alt="User Icon" 
                     width="200px"

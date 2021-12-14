@@ -6,7 +6,7 @@ import { Link } from "react-router-dom";
 import swal from 'sweetalert';
 import {fileUpload} from '../helpers/fileUpload';
 
-const baseUrl = "https://appmoviesoscar.herokuapp.com/usuario/";
+const baseUrl = "https://frontend-geeks.herokuapp.com/usuarios/";
 
 export default class Registro extends Component {
 
@@ -130,7 +130,7 @@ export default class Registro extends Component {
                     <div className="fadeIn first ">
                     <img 
                     className="fadeimg "
-                    src="https://res.cloudinary.com/dky22nhv5/image/upload/v1631157616/logo_jqmfzn.png" 
+                    src="https://res.cloudinary.com/djbaqvlnn/image/upload/v1639338870/block-master/block_master_iy5cqs.png" 
                     id="icon" 
                     alt="User Icon" 
                     width="200px"
