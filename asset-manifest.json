@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/BlockMaster/static/css/main.4833c0e6.chunk.css",
+    "main.js": "/BlockMaster/static/js/main.0898c7eb.chunk.js",
+    "main.js.map": "/BlockMaster/static/js/main.0898c7eb.chunk.js.map",
+    "runtime-main.js": "/BlockMaster/static/js/runtime-main.9e3fa68c.js",
+    "runtime-main.js.map": "/BlockMaster/static/js/runtime-main.9e3fa68c.js.map",
+    "static/css/2.c490997a.chunk.css": "/BlockMaster/static/css/2.c490997a.chunk.css",
+    "static/js/2.ca2cb842.chunk.js": "/BlockMaster/static/js/2.ca2cb842.chunk.js",
+    "static/js/2.ca2cb842.chunk.js.map": "/BlockMaster/static/js/2.ca2cb842.chunk.js.map",
+    "index.html": "/BlockMaster/index.html",
+    "static/css/2.c490997a.chunk.css.map": "/BlockMaster/static/css/2.c490997a.chunk.css.map",
+    "static/css/main.4833c0e6.chunk.css.map": "/BlockMaster/static/css/main.4833c0e6.chunk.css.map",
+    "static/js/2.ca2cb842.chunk.js.LICENSE.txt": "/BlockMaster/static/js/2.ca2cb842.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e3fa68c.js",
+    "static/css/2.c490997a.chunk.css",
+    "static/js/2.ca2cb842.chunk.js",
+    "static/css/main.4833c0e6.chunk.css",
+    "static/js/main.0898c7eb.chunk.js"
+  ]
+}
