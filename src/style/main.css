@@ -1,0 +1,134 @@
+.form-signin {
+    width: 80%;
+    max-width: 330px;
+    padding: 10px;
+    margin: 2rem auto;
+    align-items: center;
+  }
+
+  .form-signin .form-control {
+    position: relative;
+    box-sizing: border-box;
+    height: auto;
+    padding: 10px;
+    font-size: 16px;
+    
+  }
+  .h4{
+    margin: auto ;
+    color: rgb(7, 6, 6);
+    display: flex;
+    justify-content: center;
+    margin: 1rem auto;
+    
+   }
+  .form-signin .form-control:focus {
+    z-index: 1;
+ 
+  }
+  .networks{
+    margin: 1rem auto ;
+    color: #fff;
+  }
+  .form-signin input[type="email"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+  }
+  .form-signin input[type="password"] {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+  }
+  
+  .google-btn {
+    cursor: pointer;
+    margin-top: 5px;
+    width: 100%;
+    height: 42px;
+    background-color: blue;
+    border-radius: 2px;
+    box-shadow: 0 3px 4px 0 rgba(0, 0, 0, 0.25);
+    transition: box-shadow .3s ease;
+}
+
+.google-icon-wrapper {
+    position: absolute;
+    margin-top: 1px;
+    margin-left: 1px;
+    width: 40px;
+    height: 40px;
+    border-radius: 2px;
+ 
+}
+.h3{
+  color:#fff;
+  padding-top: 1rem;
+}
+.google-icon {
+    position: absolute;
+    margin-top: 11px;
+    margin-left: 71px;
+    width: 18px;
+    height: 18px;
+}
+
+.btn-text {
+    float: right;
+    margin: 11px 80px 0 0;
+    font-size: 14px;
+    letter-spacing: 0.2px;
+}
+
+
+.nothing__main-content {
+  align-items: center;
+  background-color: #5C62C5;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+
+ 
+}
+
+.nothing__main-content p {
+  text-align: center;
+}
+
+.App-logo{
+    width: 100px;
+    height: 100px;
+    }
+    
+    body {
+      
+      margin: 0;
+      padding: 0;
+      font-family: sans-serif;
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+        'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+        sans-serif;
+    }
+
+.background{
+  background-color:#0F0E17;
+}
+
+.form-signin .Link{
+  display: flex;
+  justify-content: center;
+  margin: 1rem auto;
+}
+.form-entrar .form-control{
+  width: 27rem;
+
+  margin: 0.2rem auto;
+  display: flex;
+}
+.fadeimg{
+  margin: auto;
+  display: flex;
+}
