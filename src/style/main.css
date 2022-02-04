@@ -79,6 +79,11 @@
     font-size: 14px;
     letter-spacing: 0.2px;
 }
+.btn-primary{
+  color: #fff;
+  background-color: #5C62C5;
+  width: 100%;
+}
 
 
 .nothing__main-content {
@@ -115,12 +120,33 @@
 
 .background{
   background-color:#0F0E17;
+  background-image: url(https://res.cloudinary.com/djbaqvlnn/image/upload/v1643956939/block-master/landscape-1328858_960_720_zjyeuv.webp  );
+  background-size: cover;
+  background-attachment: fixed;
+  background-position:center;
+  background-repeat: no-repeat;
+  /* display: flex; */
+  /* margin: 0; */
+  /* height: 100vh; */
+  /* width: 100vw;  */
+}
+.Link{
+  color: #fff;
+}
+.radiobox{
+  color: #fff;
+}
+.p {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 1rem;
 }
 
 .form-signin .Link{
   display: flex;
   justify-content: center;
   margin: 1rem auto;
+  color: #fff;
 }
 .form-entrar .form-control{
   width: 27rem;

@@ -206,7 +206,7 @@ export default class Registro extends Component {
                         onChange={this.handleChange}
                     />
                                   <div required="" className="form-group">
-                        <p>Tipo registro</p>
+                        <p className="p">Tipo registro</p>
                         <label title="Seleccione una opción" className="radiobox">
                           <input
                             name="tipoUsuario"
@@ -245,7 +245,7 @@ export default class Registro extends Component {
                     <button
                         type="submit"
                         
-                        className="btn btn-primary btn-block mb-1"
+                        className="btn btn-primary btn-block mb-1"style={{color:"#fff", margin:"10px", width:"39%"}}
                     >
                         Registrar
                     </button>
